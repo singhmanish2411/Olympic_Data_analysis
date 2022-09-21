@@ -1,0 +1,6 @@
+streamlit
+pandas 
+plotly
+seaborn
+protobuf==3.19.0
+scipy
