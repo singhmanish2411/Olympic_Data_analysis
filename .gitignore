@@ -1,6 +1,4 @@
-athletes_events._csv
-athletes_events._csv.zip 
-athletes_events.csv   
-noc_regions.csv
+*.csv
+*.zip
 __pycache__
 .vscode   
