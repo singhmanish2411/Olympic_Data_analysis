@@ -1,4 +1,5 @@
-*.csv
-*.zip
+*._csv
 __pycache__
 .vscode   
+*._csv.zip
+*csv
